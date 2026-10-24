@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://directcontact-blog.github.io/reparation-volet-roulant-electrique/sitemap.xml
